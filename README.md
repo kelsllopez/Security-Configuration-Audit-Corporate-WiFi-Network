@@ -19,7 +19,8 @@
 
 ---
 
-![Auditoría de seguridad: red WiFi corporativa](./infografia-wifi-audit.png)
+![Auditoría de seguridad: red WiFi corporativa]<img width="2800" height="3648" alt="infografia-wifi-audit" src="https://github.com/user-attachments/assets/32128117-b15f-46fc-bc50-0fd39f24a385" />
+
 
 ## Por qué la configuración WiFi es un punto crítico
 
